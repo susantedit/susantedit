@@ -74,40 +74,66 @@ const kantaraj = {
 
 ### 🏆 Major Achievements
 
+<div align="center">
+
 **🥈 2nd Place - Campfire Kathmandu 2026** | HackClub
-- Honored to receive 2nd Place at Campfire Kathmandu 2026
-- Grateful for this recognition and the opportunity to be part of such an inspiring community
-- Excited to keep building, creating, and shipping new ideas! 🚀
+
+<a href="https://www.linkedin.com/in/kantaraj-luitel/details/certifications/">
+  <img src="https://raw.githubusercontent.com/susantedit/susantedit/main/certificates/campfire-kathmandu.jpg" alt="Campfire Kathmandu Certificate" width="500"/>
+</a>
+
+*Honored to receive 2nd Place at Campfire Kathmandu 2026. Grateful for this recognition and the opportunity to be part of such an inspiring community. Excited to keep building, creating, and shipping new ideas! 🚀*
+
+</div>
+
+---
 
 ### 🎓 Professional Certifications
 
-**Oracle Cloud Infrastructure**
-- ✅ Oracle Cloud Infrastructure 2025 Certified Generative AI Professional (Sep 2025 - Sep 2027)
-- ✅ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate (Sep 2025 - Sep 2027)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Google Cloud & AI**
-- ✅ 5-Day AI Agents Intensive Course with Google (Dec 2025)
-- ✅ Introduction to Generative AI - Google Cloud (Sep 2025)
-- ✅ Gemini for Google Workspace - Google Cloud (Sep 2025)
-- ✅ Data Analytics with Generative AI - Simplilearn (Sep 2025)
+**☁️ Oracle Cloud Infrastructure**
+- [Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) (Sep 2025 - Sep 2027)
+- [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) (Sep 2025 - Sep 2027)
 
-**Microsoft**
-- ✅ Introduction to Prompt Engineering with GitHub Copilot (Sep 2025)
+**🤖 Google Cloud & AI**
+- [5-Day AI Agents Intensive Course with Google](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) (Dec 2025)
+- [Introduction to Generative AI - Google Cloud](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) (Sep 2025)
+- [Gemini for Google Workspace - Google Cloud](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) (Sep 2025)
+- [Data Analytics with Generative AI - Simplilearn](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) (Sep 2025)
 
-**Databricks**
-- ✅ Get Started with Databricks for Generative AI (Sep 2025)
+**💻 Microsoft**
+- [Introduction to Prompt Engineering with GitHub Copilot](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) (Sep 2025)
 
-**Cybersecurity**
-- ✅ APIsec Certified Practitioner - APIsec University (Oct 2025) | Credential ID: 12UAQLBHVX4drA1N4jFdPHg18mwhJQAJKY
-- ✅ Advent of Cyber 2025 - TryHackMe (Dec 2025) | Credential ID: THM-FJTSQDVCJI
-- ✅ Deloitte Australia - Cyber Job Simulation - Forage (Oct 2025)
+</td>
+<td width="50%" valign="top">
 
-**Coding Challenges**
-- ✅ Certificate of Participation in Challenge 66 of Weekly Coding Challenge - Unstop (Jan 2026)
-- ✅ 10 Days Voice Agent Challenge - Murf AI (Nov 2025)
+**🔧 Databricks**
+- [Get Started with Databricks for Generative AI](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) (Sep 2025)
 
-**Hackathons & Events**
-- ✅ Daydream - Arniko Hack Club (Sep 2025)
+**🔐 Cybersecurity**
+- [APIsec Certified Practitioner](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) - APIsec University (Oct 2025)
+  - Credential ID: `12UAQLBHVX4drA1N4jFdPHg18mwhJQAJKY`
+- [Advent of Cyber 2025](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) - TryHackMe (Dec 2025)
+  - Credential ID: `THM-FJTSQDVCJI`
+- [Deloitte Australia - Cyber Job Simulation](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) - Forage (Oct 2025)
+
+**🏅 Coding Challenges & Events**
+- [Challenge 66 - Weekly Coding Challenge](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) - Unstop (Jan 2026)
+- [10 Days Voice Agent Challenge](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) - Murf AI (Nov 2025)
+- [Daydream](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) - Arniko Hack Club (Sep 2025)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View All Certificates](https://img.shields.io/badge/📜_View_All_Certificates-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/)
+
+</div>
 
 ---
 
@@ -158,7 +184,7 @@ const kantaraj = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=susantedit&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=susantedit&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -168,7 +194,7 @@ const kantaraj = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=susantedit&theme=react-dark&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=susantedit&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -193,18 +219,6 @@ const kantaraj = {
 > 🚀 **Every expert was once a beginner.**
 > 
 > 💡 **Keep building, creating, and shipping new ideas!**
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://img.shields.io/badge/🚀_AI_Project-View_Demo-blue?style=for-the-badge)](https://github.com/susantedit)
-[![Project 2](https://img.shields.io/badge/🔥_Web_App-View_Demo-red?style=for-the-badge)](https://github.com/susantedit)
-[![Project 3](https://img.shields.io/badge/⚡_Cyber_Tool-View_Demo-yellow?style=for-the-badge)](https://github.com/susantedit)
-
-</div>
 
 ---
 
