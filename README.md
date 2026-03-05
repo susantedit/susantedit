@@ -1,20 +1,13 @@
 # 👋 Hey, I'm Kantaraj Luitel (Susant)
 
-💻 Developer • 🔐 Cybersecurity Enthusiast • � Content Creator • 🏆 Hackathon Winner
+💻 Developer • 🔐 Cybersecurity Enthusiast • 🎬 Content Creator • 🏆 Hackathon Winner
 
 🚀 *Building cool things with code while exploring AI, Generative AI, and Cybersecurity.*
 
 ---
 
 ## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-susantedit-black?style=for-the-badge&logo=github)](https://github.com/susantedit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kantaraj--luitel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kantaraj-luitel)
-[![Instagram](https://img.shields.io/badge/Instagram-susantgamerz-purple?style=for-the-badge&logo=instagram)](https://instagram.com/susantgamerz)
-[![YouTube](https://img.shields.io/badge/YouTube-Susant_Gamerz-red?style=for-the-badge&logo=youtube)](https://youtube.com/@yubrajedit1?si=iTHSTMFTXBmbtoDz)
-[![X](https://img.shields.io/badge/X-Susantedit-black?style=for-the-badge&logo=x)](https://twitter.com/Susantedit)
-[![Facebook](https://img.shields.io/badge/Facebook-Kantaraj_Luitel-blue?style=for-the-badge&logo=facebook)](https://facebook.com/Kantaraj.Luitel)
-[![TikTok](https://img.shields.io/badge/TikTok-vortexeditz34-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@vortexeditz34)
-[![Email](https://img.shields.io/badge/Email-susantedit@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:susantedit@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-susantedit-black?style=for-the-badge&logo=github)](https://github.com/susantedit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-kantaraj--luitel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kantaraj-luitel) [![Instagram](https://img.shields.io/badge/Instagram-susantgamerz-purple?style=for-the-badge&logo=instagram)](https://instagram.com/susantgamerz) [![YouTube](https://img.shields.io/badge/YouTube-Susant_Gamerz-red?style=for-the-badge&logo=youtube)](https://youtube.com/@yubrajedit1?si=iTHSTMFTXBmbtoDz) [![X](https://img.shields.io/badge/X-Susantedit-black?style=for-the-badge&logo=x)](https://twitter.com/Susantedit) [![Facebook](https://img.shields.io/badge/Facebook-Kantaraj_Luitel-blue?style=for-the-badge&logo=facebook)](https://facebook.com/Kantaraj.Luitel) [![TikTok](https://img.shields.io/badge/TikTok-vortexeditz34-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@vortexeditz34) [![Email](https://img.shields.io/badge/Email-susantedit@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:susantedit@gmail.com)
 
 ---
 
@@ -77,9 +70,6 @@ const kantaraj = {
 
 **🥈 2nd Place - Campfire Kathmandu 2026** | HackClub
 
-<a href="https://www.linkedin.com/in/kantaraj-luitel/details/certifications/">
-  <img src="https://raw.githubusercontent.com/susantedit/susantedit/main/certificates/campfire-kathmandu.jpg" alt="Campfire Kathmandu Certificate" width="500"/>
-</a>
 
 *Honored to receive 2nd Place at Campfire Kathmandu 2026. Grateful for this recognition and the opportunity to be part of such an inspiring community. Excited to keep building, creating, and shipping new ideas! 🚀*
 
@@ -109,7 +99,7 @@ const kantaraj = {
 </td>
 <td width="50%" valign="top">
 
-**🔧 Databricks**
+**� Databricks**
 - [Get Started with Databricks for Generative AI](https://www.linkedin.com/in/kantaraj-luitel/details/certifications/) (Sep 2025)
 
 **🔐 Cybersecurity**
@@ -142,15 +132,16 @@ const kantaraj = {
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=susantedit&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=susantedit&theme=synthwave&hide_border=false)<br/>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=susantedit&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=susantedit&theme=synthwave&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=susantedit&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=susantedit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
@@ -164,6 +155,26 @@ const kantaraj = {
 
 ---
 
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=susantedit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
 ## 🔥 Current Mission
 
 - 🤖 Mastering Generative AI & Machine Learning
@@ -171,7 +182,7 @@ const kantaraj = {
 - ☁️ Exploring cloud infrastructure (Oracle, Google Cloud)
 - 🌐 Building innovative web projects
 - 💻 Improving programming & problem-solving skills
-- 🚀 Creating useful and creative tech solutions
+- � Creating useful and creative tech solutions
 - 🏆 Participating in hackathons and coding challenges
 
 ---
@@ -185,10 +196,22 @@ const kantaraj = {
 > 💡 **Keep building, creating, and shipping new ideas!**
 
 ---
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=susantedit&icon=0&color=5)](https://visitcount.itsvg.in)
 
+</div>
+
+---
+
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Susantedit) 
+
+<div align="center">
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Susantedit)
+
+</div>
 
 ---
 
