@@ -78,9 +78,7 @@ const kantaraj = {
 
 **🥈 2nd Place - Campfire Kathmandu 2026** | HackClub
 
-<a href="https://www.linkedin.com/in/kantaraj-luitel/details/certifications/">
-  <img src="https://raw.githubusercontent.com/susantedit/susantedit/main/certificates/campfire-kathmandu.jpg" alt="Campfire Kathmandu Certificate" width="500"/>
-</a>
+
 
 *Honored to receive 2nd Place at Campfire Kathmandu 2026. Grateful for this recognition and the opportunity to be part of such an inspiring community. Excited to keep building, creating, and shipping new ideas! 🚀*
 
@@ -168,27 +166,8 @@ const kantaraj = {
 
 ---
 
-## � GitHub Stats
 
-<div align="center">
 
-![Susant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=susantedit&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susantedit&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=susantedit&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -222,13 +201,6 @@ const kantaraj = {
 
 ---
 
-## 📝 How to Use This Profile
-
-1. Go to your GitHub profile
-2. Create a repository named `susantedit`
-3. Add a `README.md` file
-4. Paste this code
-5. Commit and watch it shine ✨
 
 ---
 
