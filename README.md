@@ -20,6 +20,14 @@
 
 ---
 
+## 🎓 Education
+
+**Cosmic International Academy** - Computer Science (Grade 11-12)
+
+**Shree Saraswoti Mavi School** - School Education (Grade 6-10) | May 2018 - May 2023
+
+---
+
 ## 🏅 Certifications & Achievements
 
 ### 🏆 Major Achievements
