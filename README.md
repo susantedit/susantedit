@@ -1,5 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://rishavchanda.io)
 # 👋 Hey, I'm Kantaraj Luitel (Susant)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" >
 
 💻 Developer • 🔐 Cybersecurity Enthusiast • 🎬 Content Creator • 🏆 Hackathon Winner
 
