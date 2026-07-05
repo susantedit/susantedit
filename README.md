@@ -1,3 +1,17 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/susantedit/susantedit/output/pacman-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/susantedit/susantedit/output/pacman-contribution-graph.svg"
+  >
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/susantedit/susantedit/output/pacman-contribution-graph.svg"
+  >
+</picture>
 [![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://rishavchanda.io)
 # 👋 Hey, I'm Kantaraj Luitel (Susant)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" >
